@@ -10,3 +10,8 @@ The home page has a hero section that has some carousal hero images listing disc
 
 ABOUT
 This page talks about the bakery shop, the owner, the staff and other details
+
+Contact Us 
+contact us page contains the contacts of the bakery
+
+
