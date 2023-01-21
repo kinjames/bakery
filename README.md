@@ -9,4 +9,4 @@ HOMEPAGE
 The home page has a hero section that has some carousal hero images listing discount and sales and new product.
 
 ABOUT
-This page talks about the bakery shop, the owner, the staff
+This page talks about the bakery shop, the owner, the staff and other details
