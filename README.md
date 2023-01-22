@@ -18,4 +18,6 @@ Oder Page
 The order page is going  to be used for ordering pasteriess
 the checkout page wwill have a place where your coupons can be redeemed
 
+the more you buy, the more points you get and after sometime the points can be used to buy pastries
+
 
