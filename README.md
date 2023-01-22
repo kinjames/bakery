@@ -16,5 +16,6 @@ contact us page contains the contacts of the bakery
 
 Oder Page
 The order page is going  to be used for ordering pasteriess
+the checkout page wwill have a place where your coupons can be redeemed
 
 
