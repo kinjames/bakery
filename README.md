@@ -14,4 +14,7 @@ This page talks about the bakery shop, the owner, the staff and other details
 Contact Us 
 contact us page contains the contacts of the bakery
 
+Oder Page
+The order page is going  to be used for ordering pasteriess
+
 
