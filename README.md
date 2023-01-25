@@ -22,3 +22,5 @@ the more you buy, the more points you get and after sometime the points can be u
 
 sripe api will be used for the payment method.
 
+King James Bakery
+
