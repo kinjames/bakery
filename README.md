@@ -26,3 +26,5 @@ King James Bakery
 Aunty Alice Bakery
 Oye Adom rentals
 <!-----------Comment----------!>
+
+KVAV E-commerce Shop
