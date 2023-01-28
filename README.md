@@ -27,5 +27,6 @@ Aunty Alice Bakery
 Oye Adom rentals
 <!-----------Comment----------!>
 
-KVAV E-commerce Shop
+KVAV E-commerce Shop <br>
+<hr>
 Falaa Gh
