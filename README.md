@@ -1,6 +1,6 @@
 # bakery
 
-This is a bakery website.
+<h3>This is a bakery website.</h3>
 
 It has a homepage, about page, contact us page and order page
 
