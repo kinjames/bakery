@@ -23,9 +23,9 @@ the more you buy, the more points you get and after sometime the points can be u
 
 stripe api will be used for the payment method.<br>
 
-King James Bakery
-Aunty Alice Bakery
-Oye Adom rentals
+King James Bakery <br>
+Aunty Alice Bakery <br>
+Oye Adom rentals <br>
 <!-----------Comment----------!>
 
 KVAV E-commerce Shop <br>
