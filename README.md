@@ -39,3 +39,9 @@ A slideshow showcasing the bakery's specialties and best-sellers
 A menu section highlighting all the baked goods and pastries available, with images and descriptions
 An about us section providing background information on the bakery, its history, and philosophy
 </p>
+
+<h1>Menu:</h1>
+<p>A detailed list of all the baked goods and pastries offered, including cakes, breads, croissants, muffins, cookies, and more
+Information on dietary restrictions, such as gluten-free, vegan, and nut-free options
+A feature to allow customers to pre-order and pick up their items at a later time
+</p>
