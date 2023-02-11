@@ -33,15 +33,20 @@ KVAV E-commerce Shop <br>
 <p >Falaa Gh </p>
 
 <h1>Homepage</h1>
-<p>Homepage:
+<p>
 A warm and inviting welcome message
 A slideshow showcasing the bakery's specialties and best-sellers
 A menu section highlighting all the baked goods and pastries available, with images and descriptions
 An about us section providing background information on the bakery, its history, and philosophy
 </p>
 
-<h1>Menu:</h1>
+<h1>Menu</h1>
 <p>A detailed list of all the baked goods and pastries offered, including cakes, breads, croissants, muffins, cookies, and more
 Information on dietary restrictions, such as gluten-free, vegan, and nut-free options
 A feature to allow customers to pre-order and pick up their items at a later time
+</p>
+
+<h1>Gallery</h1>
+<p>A collection of high-quality images showcasing the bakery's baked goods, decor, and ambiance
+Customer reviews and testimonials
 </p>
