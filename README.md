@@ -64,3 +64,10 @@ Regular updates on new menu items, special promotions, and events
 Recipes and baking tips from the bakery's expert bakers
 Stories and news from the local community, highlighting the bakery's involvement and partnerships
 </p>
+
+<h1>Contact</h1>
+<p>
+An easy-to-use contact form for customers to ask questions or provide feedback
+Location and hours of operation for the bakery
+Social media links to connect with the bakery on platforms such as Facebook, Instagram, and Twitter.
+</p>
