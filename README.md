@@ -31,3 +31,11 @@ Oye Adom rentals <br>
 KVAV E-commerce Shop <br>
 <hr>
 <p >Falaa Gh </p>
+
+<h1>Homepage</h1>
+<p>Homepage:
+A warm and inviting welcome message
+A slideshow showcasing the bakery's specialties and best-sellers
+A menu section highlighting all the baked goods and pastries available, with images and descriptions
+An about us section providing background information on the bakery, its history, and philosophy
+</p>
