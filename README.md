@@ -56,3 +56,11 @@ Customer reviews and testimonials
 A shopping cart feature that allows customers to order and purchase baked goods online
 Secure payment options, such as credit card and PayPal
 Shipping and delivery information for customers who would like their baked goods shipped to their location</p>
+
+
+<h1>Blog</h1>
+<p>
+Regular updates on new menu items, special promotions, and events
+Recipes and baking tips from the bakery's expert bakers
+Stories and news from the local community, highlighting the bakery's involvement and partnerships
+</p>
