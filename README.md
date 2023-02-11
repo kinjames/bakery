@@ -50,3 +50,9 @@ A feature to allow customers to pre-order and pick up their items at a later tim
 <p>A collection of high-quality images showcasing the bakery's baked goods, decor, and ambiance
 Customer reviews and testimonials
 </p>
+
+<h1>Online Store</h1>
+<p>
+A shopping cart feature that allows customers to order and purchase baked goods online
+Secure payment options, such as credit card and PayPal
+Shipping and delivery information for customers who would like their baked goods shipped to their location</p>
