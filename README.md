@@ -2,7 +2,7 @@
 
 <h3>This is a bakery website.</h3>
 
-It has a homepage,menu, about page, contact us page, gallery and order page
+It has a homepage,menu,blog, about page, contact us page, gallery and order page
 <br>
 
 
